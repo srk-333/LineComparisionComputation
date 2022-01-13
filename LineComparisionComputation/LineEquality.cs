@@ -9,6 +9,7 @@ namespace LineComparisionComputation
     public class LineEquality
     {
 
+
         //instance variable to store distance of given co-ordinates.
         static double distance1, distance2, distance3;
 
