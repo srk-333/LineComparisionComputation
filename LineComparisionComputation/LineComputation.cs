@@ -8,6 +8,10 @@ namespace LineComparisionComputation
 {
     public class LineComputation
     {
+        /* UC - 4 Implemented
+         * In this Uc we used OOPs concept of C#
+         * created seperate Class, Methods and constructor to achieve End result..
+         */
         //Instace Variables.
         double pointX1, pointY1, pointX2, pointY2;
 

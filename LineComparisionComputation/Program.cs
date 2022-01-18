@@ -8,12 +8,12 @@ namespace LineComparisionComputation
 {
     public class Program
     {
-        //Main method /Entry Point of program
+        //Main method / Entry Point of program
         static void Main(string[] args)
         {
-            //Showing message on console
+            //Showing welcome message on console
             Console.WriteLine("Welcome to Line Comparision Computation Program \n");
-            LineComputation.GetLength();  // calling static method of program class.
+            LineComputation.GetLength();  // calling static method of LineComputation class.
             Console.ReadLine(); 
         }
     }
