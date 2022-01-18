@@ -12,8 +12,8 @@ namespace LineComparisionComputation
         static void Main(string[] args)
         {
             //Showing message on console
-            Console.WriteLine("Welcome to Line Comparision Computation Program");
-            LineEquality.CheckLine();  // calling static method of program class.
+            Console.WriteLine("Welcome to Line Comparision Computation Program \n");
+            LineComputation.GetLength();  // calling static method of program class.
             Console.ReadLine(); 
         }
     }
